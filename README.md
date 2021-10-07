@@ -1,0 +1,2 @@
+# Bostan_Home_Price_No_Outliers
+For this project i got dataset from Kaggle. The dataset is a regressor, with target being continuous, hence we have to use Supervised algorithm with regressor to predict the house price in Bostan city. Here based on r2_score i am going to build best machine learning model by compaing Linear Regession, SVR, Random Forest Regressor and KNN Regressor algorithm. Then based on best r2_score i am going to perform hyperparameter tuning with l2 regularization to overcome from overfitting.
